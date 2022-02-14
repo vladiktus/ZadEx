@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ZadEx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZadEx_jar</output-path>
+    <root id="archive" name="ZadEx.jar">
+      <element id="module-output" name="ZadEx" />
+    </root>
+  </artifact>
+</component>
